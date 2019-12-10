@@ -1,0 +1,1 @@
+--share_amt .75 0 1 linear 0

@@ -1,0 +1,2 @@
+--temperature .6 .05 2 log 0
+--curriculum_bias .05 .01 .5 log 0
